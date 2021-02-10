@@ -56,19 +56,25 @@ A computer science student from India, lives in pune.
 </div>
 
 
+<br>
 
-<p align="center">
-<span style="margin:10px">
+<hr>
+
+<br>
+
+<span align="center" style="margin:10px">
  <a href="https://www.facebook.com/KunalChavare.fb/" title="Facebook">
 <img src="https://github.com/kunalchavare2/kunalchavare2/blob/main/icons/facebook.png" width="30" height="30" /></a>
-	</span>
- <a href="https://www.facebook.com/KunalChavare.fb/" title="Facebook">
+	
+ <a href="https://www.instagram.com/kunalchavare2/" title="Instagram">
 <img src="https://github.com/kunalchavare2/kunalchavare2/blob/main/icons/instagram.png" width="30" height="30" /></a>
 
- <a href="https://www.facebook.com/KunalChavare.fb/" title="Facebook">
+ <a href="#" title="Facebook">
 <img src="https://github.com/kunalchavare2/kunalchavare2/blob/main/icons/twitter.png" width="30" height="30" /></a>
 
- <a href="https://www.facebook.com/KunalChavare.fb/" title="Facebook">
+ <a href="https://www.linkedin.com/in/kunal-chavare-b918a9157" title="LinkedIn">
 <img src="https://github.com/kunalchavare2/kunalchavare2/blob/main/icons/linkedin.png" width="30" height="30" /></a>
 
-</p>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kunalchavare2@gmail.com" title="Gmail">
+<img src="https://github.com/kunalchavare2/kunalchavare2/blob/main/icons/gmail.png" width="30" height="30" /></a>
+</span>
