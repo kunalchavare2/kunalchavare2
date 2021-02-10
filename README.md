@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/kunalchavare2/git-badges)](https://badges.pufler.dev)
+[![Contributors Display](https://badges.pufler.dev/contributors/kunalchavare2/git-badges?size=50&padding=5&bots=true)](https://badges.pufler.dev)
