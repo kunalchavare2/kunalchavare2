@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 
 [![Visits Badge](https://badges.pufler.dev/visits/kunalchavare2/git-badges)](https://badges.pufler.dev)
+
 [![Contributors Display](https://badges.pufler.dev/contributors/kunalchavare2/git-badges?size=50&padding=5&bots=true)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/kunalchavare2)](https://badges.pufler.dev)
 
