@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kunalchavare2&repo=github-readme-stats)](https://github.com/kunalchavare2/github-readme-stats)
+
 <!--
 **kunalchavare2/kunalchavare2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
