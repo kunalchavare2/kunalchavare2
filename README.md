@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi I'm Kunal 👋
 
 
 
@@ -61,5 +60,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalchavare&langs_count=8&show_icons=true&theme=dracula" alt="kunalchavare2" d style="max-width:100%;"></a>
 </div>
 
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+<p align="center">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="kunalchavare2" d style="max-width:100%;"></a>
+</p>
 
