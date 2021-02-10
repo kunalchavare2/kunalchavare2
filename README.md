@@ -2,13 +2,13 @@
 
 
 
-**kunalchavare2/kunalchavare2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+
+- 🔭 I’m currently working on my Portfolio 
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on Flutter, UI and Web Development
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   	<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
     <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
     <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    </div>
+</div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 [![Contributors Display](https://badges.pufler.dev/contributors/kunalchavare2/git-badges?size=50&padding=5&bots=true)](https://badges.pufler.dev)
@@ -53,13 +53,15 @@ Here are some ideas to get you started:
 - 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
 - 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
-<p><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png"><img class="emoji" alt="chart_with_upwards_trend" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png"></g-emoji> My GitHub Stats:</p>
 
+
+<h3>📈 GitHub Stats:<h3>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=kunalchavare2&show_icons=true&theme=dracula" alt="kunalchavare2" d style="max-width:100%;"></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalchavare&langs_count=8&show_icons=true&theme=dracula" alt="kunalchavare2" d style="max-width:100%;"></a>
 </div>
 
+<br><br>
 <p align="center">
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="kunalchavare2" d style="max-width:100%;"></a>
 </p>
