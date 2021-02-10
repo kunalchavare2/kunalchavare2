@@ -27,8 +27,7 @@ Here are some ideas to get you started:
     <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     </div>
 
-[![Visits Badge](https://badges.pufler.dev/visits/kunalchavare2/git-badges)](https://badges.pufler.dev)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 [![Contributors Display](https://badges.pufler.dev/contributors/kunalchavare2/git-badges?size=50&padding=5&bots=true)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/kunalchavare2)](https://badges.pufler.dev)
 
