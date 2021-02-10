@@ -62,7 +62,10 @@ A computer science student from India, lives in pune.
 
 <br>
 
-<span align="center" style="margin:10px">
+<center>
+
+<span text-align="center" style="margin:10px">
+	
  <a href="https://www.facebook.com/KunalChavare.fb/" title="Facebook">
 <img src="https://github.com/kunalchavare2/kunalchavare2/blob/main/icons/facebook.png" width="30" height="30" /></a>
 	
@@ -77,4 +80,7 @@ A computer science student from India, lives in pune.
 
  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kunalchavare2@gmail.com" title="Gmail">
 <img src="https://github.com/kunalchavare2/kunalchavare2/blob/main/icons/gmail.png" width="30" height="30" /></a>
+
+
 </span>
+</center>
