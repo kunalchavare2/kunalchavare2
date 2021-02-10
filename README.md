@@ -64,23 +64,23 @@ A computer science student from India, lives in pune.
 
 
 
-<div style="margin:auto; display:Block; border:1px solid red;">
+<p align="center">
 	
  <a href="https://www.facebook.com/KunalChavare.fb/" title="Facebook">
 <img src="https://github.com/kunalchavare2/kunalchavare2/blob/main/icons/facebook.png" width="30" height="30" /></a>
-	
+	&nbsp&nbsp
  <a href="https://www.instagram.com/kunalchavare2/" title="Instagram">
 <img src="https://github.com/kunalchavare2/kunalchavare2/blob/main/icons/instagram.png" width="30" height="30" /></a>
-
+&nbsp&nbsp
  <a href="#" title="Facebook">
 <img src="https://github.com/kunalchavare2/kunalchavare2/blob/main/icons/twitter.png" width="30" height="30" /></a>
-
+&nbsp&nbsp
  <a href="https://www.linkedin.com/in/kunal-chavare-b918a9157" title="LinkedIn">
 <img src="https://github.com/kunalchavare2/kunalchavare2/blob/main/icons/linkedin.png" width="30" height="30" /></a>
-
+&nbsp&nbsp
  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kunalchavare2@gmail.com" title="Gmail">
 <img src="https://github.com/kunalchavare2/kunalchavare2/blob/main/icons/gmail.png" width="30" height="30" /></a>
 
 
-</div>
+</p>
 
