@@ -1,4 +1,4 @@
-### Hi I'm Kunal 👋
+<p align="center"><h3>Hi I'm Kunal 👋</h3></p>
 
 
 
@@ -9,10 +9,6 @@
 - 🔭 I’m currently working on my Portfolio 
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Flutter, UI and Web Development
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <div>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
