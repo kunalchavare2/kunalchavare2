@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalchavare2)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -57,10 +56,10 @@ Here are some ideas to get you started:
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 <p><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png"><img class="emoji" alt="chart_with_upwards_trend" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png"></g-emoji> My GitHub Stats:</p>
 
-<p align="center">
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=kunalchavare2&show_icons=true&theme=dracula" alt="kunalchavare2" d style="max-width:100%;"></a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalchavare&layout=compact&show_icons=true&theme=dracula" alt="kunalchavare2" d style="max-width:100%;"></a>
+</div>
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalchavare&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
