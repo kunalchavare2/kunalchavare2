@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=kunalchavare2&show_icons=true&theme=dracula" alt="kunalchavare2" d style="max-width:100%;"></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalchavare&show_icons=true&theme=dracula" alt="kunalchavare2" d style="max-width:100%;"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalchavare&langs_count=8&show_icons=true&theme=dracula" alt="kunalchavare2" d style="max-width:100%;"></a>
 </div>
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
