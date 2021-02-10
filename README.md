@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Flutter.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/Flutter.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Flutter.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/flutter.svg" />
+
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
