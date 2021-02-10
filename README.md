@@ -1,6 +1,5 @@
 
 
-
 # Hi, I'm Kunal 
 
 A computer science student from India, lives in pune.
@@ -59,4 +58,17 @@ A computer science student from India, lives in pune.
 
 
 <p align="center">
-<a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"><img src=""/></a></p>
+<span style="margin:10px">
+ <a href="https://www.facebook.com/KunalChavare.fb/" title="Facebook">
+<img src="https://github.com/kunalchavare2/kunalchavare2/blob/main/icons/facebook.png" width="30" height="30" /></a>
+	</span>
+ <a href="https://www.facebook.com/KunalChavare.fb/" title="Facebook">
+<img src="https://github.com/kunalchavare2/kunalchavare2/blob/main/icons/instagram.png" width="30" height="30" /></a>
+
+ <a href="https://www.facebook.com/KunalChavare.fb/" title="Facebook">
+<img src="https://github.com/kunalchavare2/kunalchavare2/blob/main/icons/twitter.png" width="30" height="30" /></a>
+
+ <a href="https://www.facebook.com/KunalChavare.fb/" title="Facebook">
+<img src="https://github.com/kunalchavare2/kunalchavare2/blob/main/icons/linkedin.png" width="30" height="30" /></a>
+
+</p>
