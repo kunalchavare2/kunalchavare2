@@ -1,31 +1,9 @@
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-[![Years Badge](https://badges.pufler.dev/years/kunalchavare2)](https://badges.pufler.dev)
 
-
-
-
-
-
-
-
-
-<br><br>
-<p align="center">
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="kunalchavare2" d style="max-width:100%;"></a>
-</p>
-
-
-
-
-
-
-# Hi, I'm Kunal
+# Hi, I'm Kunal 
 
 A computer science student from India, lives in pune.
-
-<hr>
 
 ## About Me
 
@@ -34,8 +12,6 @@ A computer science student from India, lives in pune.
 - 👯 I’m looking to collaborate on Flutter, UI and Web Development.
 - 💬 Ping me about **design**, **App development**, **Flutter**, **Web development**.
 - ⚡ Fun fact: I'm a huge fan of Harry Potter.
-
-<hr>
 
 
 
