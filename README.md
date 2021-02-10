@@ -51,11 +51,12 @@ A computer science student from India, lives in pune.
 
 ## Stats
 
-
-<h3>📈 GitHub Stats:<h3>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=kunalchavare2&show_icons=true&theme=dracula" alt="kunalchavare2" d style="max-width:100%;"></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalchavare&langs_count=8&show_icons=true&theme=dracula" alt="kunalchavare2" d style="max-width:100%;"></a>
 </div>
 
 
+
+<p align="center">
+<a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"><img src=""/></a></p>
